@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Inter&family=Nunito+Sans&family=Roboto&display=swap');
+
+
+:root{
+  background-image: url('https://media2.fdncms.com/saltlake/imager/u/original/2885821/usflag.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.App{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+h1{
+  background-color: blue;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 75px;
+  color: whitesmoke;
+}
+
+.events-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  /*top right bot left*/
+  margin: 50px 40px 0px 40px;
+}
