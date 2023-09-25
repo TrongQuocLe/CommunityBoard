@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://github.com/TrongQuocLe/CommunityBoard/blob/main/ComunityBoard.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='ComunityBoard20230924.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
