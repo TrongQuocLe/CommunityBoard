@@ -6,7 +6,8 @@ function App() {
   const [count, setCount] = useState(0)
  return (
     <div className="App">
-      <h1>Top 10 Most Current<br/>Presidents</h1>
+      <img className="img-theme" src="https://media2.fdncms.com/saltlake/imager/u/original/2885821/usflag.jpg"></img>
+      <h1>Top 10 Most Current Presidents</h1>
       <div className='events-container'>
         <Event name={"Joe Biden"} 
         image={"https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/440px-Joe_Biden_presidential_portrait.jpg"} 

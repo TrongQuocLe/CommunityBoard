@@ -7,7 +7,8 @@ const Event = (props) => {
             <img src={props.image} />
             <div className="card-event-footer">
                 <h2 className="card-event-footer-name">{props.name}</h2>
-                <p>Political Party: {props.politicalParty}</p>
+                <h3>Political Party: {props.politicalParty}</h3>
+                <br></br>
                 <a href={"https://en.wikipedia.org/wiki/"+wiki} target={"_blank"}>Wiki</a>
             </div>
         </div>
